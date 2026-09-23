@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bd3911d10656c57f0b1bcb7d",
+  "owner": "hrjqxbdnjh",
+  "repo": "page-83f713a1e79b371c6516a261",
+  "title": "慈善机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "83f713a1e79b371c6516a261",
+      "a": "慈善机场",
+      "b": "机场官网线路发布页",
+      "entity": "慈善机场",
+      "brand": "慈善机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b2cf3c23de6707d1bf5a3f97fde2b1f4ebb8ad36692658424ef07bcc8fe8d890",
+      "content": {
+        "primary_entity": "慈善机场",
+        "keyword1": "慈善机场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "慈善机场提供 Clash、Shadowrocket、V2RayN 与 Surge 等客户端的订阅导入指引。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定方案，即可开启稳定加速体验。",
+          "AI_CLOSING_TITLE": "选择适合的加速方案",
+          "AI_DESCRIPTION": "，慈善机场提供基础版、旗舰版与团队版三档套餐。基础版月付 ¥15，含 100GB 流量与 3 台设备；旗舰版月付 ¥35，含 300GB 流量、5 台设备与 IPLC 专线游戏加速；团队版月付 ¥85，含 1000GB 流量与 20 台设备。年付更划算，旗舰版年付仅 ¥350。所有套餐均支持流媒体解锁与订阅导入。",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度上网与单人使用，旗舰版适合多设备与游戏加速，团队版适合高流量多设备场景。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，可根据同时在线设备数量选择。",
+          "AI_FAQ_ANSWER_3": "年付比月付更优惠，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用推荐年付。",
+          "AI_FAQ_ANSWER_4": "订阅链接导入后，请在客户端内更新订阅，即可看到对应节点列表，按需选择线路连接。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟和稳定性有要求的用户。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅配置。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "订阅导入后如何更新节点？",
+          "AI_FAQ_QUESTION_5": "游戏加速推荐哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度对比选择。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 与 3 台设备，旗舰版 ¥35/月含 300GB 与 5 台设备，团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "根据手机、电脑、平板同时在线数量选择套餐，避免设备超出限制影响使用。",
+          "AI_FEATURE_TEXT_3": "年付方案价格更低，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期订阅。",
+          "AI_FEATURE_TITLE_1": "套餐档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按设备与流量需求选择套餐，再通过客户端导入订阅使用。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "慈善机场提供基础版、旗舰版与团队版三档海外加速套餐，分别面向轻度使用、多设备与高流量场景。月付与年付均可选择，套餐内已包含流量、设备数与流媒体解锁等权益，方便按需订阅。",
+          "AI_HERO_SUBTITLE": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 月流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备以内轻度使用，旗舰版适合 5 台设备与游戏加速，团队版适合 20 台设备高流量团队。年付价格更低。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，从基础版、旗舰版或团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认设备和路由器等接入方式的适配情况，选择支持的客户端环境。",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅配置，更新节点后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "慈善机场加速方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aftdk.cn",
+    "host": "aftdk.cn"
+  },
+  "file_hashes": {
+    "index.html": "6ddb40987cb009e3b872d08a3bc636550d6bd757cd78e71daa0a754f4aca3650",
+    "sitemap.xml": "ca38a862eb31649b2976081e1f1de92f0d2678ccd464049a4fcc0e5a589b0408",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a46ff115438e3b006813881cc5cf74de907f295c6bb43d9e034e3bf09f89e78",
+    "robots.txt": "eb888b1e232c2c1bd996311ce43acd3beb681af5b883c6b5ae09f07d242ffd09",
+    "d4ae3814ab5c0301ec55360a1009718c.txt": "ddac777e6d641643d83623f53570840a3dbba17558249e253b0ea7b9171d2a7e"
+  },
+  "revision": "39351b4e377ac2eaa67efb05f3b06a35da7403c78ff3f0b0997ee2c65450272a"
+}
